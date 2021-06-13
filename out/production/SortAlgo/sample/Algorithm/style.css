@@ -1,0 +1,92 @@
+#randomButton{
+button {
+    -fx-font-veight: bold;
+    -fx-background-color: #F9C6D7;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+}
+
+.button: hover{
+    -fx-font-veight: bold;
+    -fx-background-color: #FF69B4;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+}
+
+.button: pressed{
+    -fx-font-veight: bold;
+    -fx-background-color: black;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: white;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+    -fx-rotate: 10;
+}
+}
+
+#executeButton{
+button{
+    -fx-font-veight: bold;
+    -fx-background-color: #F9C6D7;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+}
+
+.button: hover{
+    -fx-font-veight: bold;
+    -fx-background-color: #FF69B4;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+}
+
+.button: pressed{
+    -fx-font-veight: bold;
+    -fx-background-color: black;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: white;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+    -fx-rotate: 10;
+}
+}
+
+#gobackButton{
+button {
+    -fx-font-veight: bold;
+    -fx-background-color: black;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: white;
+}
+
+.button: hover{
+    -fx-font-veight: bold;
+    -fx-background-color: #FF69B4;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+}
+
+.button: pressed{
+    -fx-font-veight: bold;
+    -fx-background-color: #F9C6D7;
+    -fx-background-radius: 22;
+    -fx-font-size: 16;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-borrder-width: 3;
+    -fx-rotate: 10;
+}
+}
